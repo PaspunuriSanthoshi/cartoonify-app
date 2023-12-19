@@ -1,7 +1,4 @@
-plotly
-scipy
+streamlit
 pandas
-Flask
-flask-cors
-pyforest
+numpy
 
